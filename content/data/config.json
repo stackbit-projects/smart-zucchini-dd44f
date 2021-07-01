@@ -38,7 +38,8 @@
             {
                 "label": "App Store",
                 "url": "/pricing",
-                "style": "secondary"
+                "style": "secondary",
+                "has_icon": true
             },
             {
                 "label": "Google Play",
